@@ -16,6 +16,7 @@
 <br> 
 <br> 
 <br> 
+
 ## HW  
 1. 스마트폰  
 2. 라즈베리파이5  
@@ -24,6 +25,7 @@
 <br> 
 <br> 
 <br> 
+
 ## SW
 1. Python - Bleak(BLE)  
 2. Java - Android  
