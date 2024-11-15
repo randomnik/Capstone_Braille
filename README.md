@@ -4,7 +4,7 @@
 <br> 
 <br> 
 
-## 동작
+## 동작  
 1. 스마트폰에서 앱 실행
 2. 카메라 사용 - 텍스트 인식(ML Kit Text-recognition 적용)
 3. 인식한 텍스트 라즈베리파이로 BLE 전송
@@ -16,17 +16,17 @@
 <br> 
 <br> 
 <br> 
-## HW
-1. 스마트폰
-2. 라즈베리파이5
-3. 아두이노 우노
-4. 점자 모듈
+## HW  
+1. 스마트폰  
+2. 라즈베리파이5  
+3. 아두이노 우노  
+4. 점자 모듈  
 <br> 
 <br> 
 <br> 
 ## SW
-1. Python - Bleak(BLE)
-2. Java - Android
-3. C
+1. Python - Bleak(BLE)  
+2. Java - Android  
+3. C  
 
 
